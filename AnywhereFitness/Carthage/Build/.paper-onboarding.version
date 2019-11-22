@@ -1,0 +1,19 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "6.1.4",
+  "iOS" : [
+    {
+      "name" : "PaperOnboarding",
+      "hash" : "f4b897647424b749186255799b8b011c681af49479010a6ea47f329d1bf44601",
+      "swiftToolchainVersion" : "5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+    }
+  ]
+}
